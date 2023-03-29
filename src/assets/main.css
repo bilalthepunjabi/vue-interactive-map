@@ -1,1 +1,8 @@
 @import './base.css';
+.main {
+  background-color: white;
+}
+.map-container{
+  width: 900px;
+  height: 900px;
+}

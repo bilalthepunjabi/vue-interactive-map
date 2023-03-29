@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "svg-maps": "^1.0.0-beta.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
